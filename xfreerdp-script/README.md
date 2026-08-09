@@ -4,7 +4,7 @@ This is a simple python script for use with xfreerdp, instead of typing a long s
 
 # Author
 
-Etienne Quartey-Papafio\
+Etienne Quartey-Papafio
 Malware Analyst & Reverse Engineer\
 GitHub: https://github.com/EtienneQuarteyPapafio
 
